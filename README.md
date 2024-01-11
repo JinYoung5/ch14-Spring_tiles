@@ -1,6 +1,9 @@
 https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/jstl/1.2<br>
 https://mvnrepository.com/artifact/org.apache.tiles/tiles-jsp/3.0.7<br>
 http://projectlombok.org<br>
+<h3>Tiles 사용 이유</h3>
+Tiles = UI FRAMEWORK
+UI 처리를 폭 넓게 사용할 수 있음
 <h2>설정</h2>
 boot 사용시
 new -> others -> Spring boot -> new spring starter project
