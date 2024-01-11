@@ -28,4 +28,4 @@ public class AppConfig implements WebMvcConfigurer{
 }
 
 
-//include 해서 조합된 페이지를 만듦. tiles가 조합해줌
+//include 해서 조합된 페이지를 만듦. tilesViewResolver : 요청해서 낚아채줌,  TilesView : 조합된 페이지를 처리해주는형태
